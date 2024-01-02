@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Какие технологии были использованы?<br> - ReactJS (useState, useEffectб useContext)<br>- Axios (для получения данных от фейкового сервера)<br>- CSS Modules<br>- SASS/SCSS</p>
+<p align="left">What technologies were used?<br>- ReactJS (useState, useEffect, useContext)<br>- Axios (for receiving data from a fake server)<br>- CSS Modules<br>- SASS/SCSS</p>
 
 ###
 
@@ -13,10 +13,6 @@
 <div align="left">
   <img height="300" src="https://i.postimg.cc/WbfVhmVR/image.png"  />
 </div>
-
-###
-
-<h5 align="left">I code with</h5>
 
 ###
 
